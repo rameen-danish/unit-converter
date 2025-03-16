@@ -106,4 +106,4 @@ if st.button("Convert", key="convert_button", help="Click to convert" ):
 st.markdown("</div>", unsafe_allow_html=True)
 # Footer
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: #999;'>Made with ❤️ using Streamlit</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #999;'>Made with ❤️ by Rameen Rashid</p>", unsafe_allow_html=True)
